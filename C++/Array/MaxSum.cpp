@@ -1,7 +1,7 @@
 #include<iostream>
 #include<vector>
 using namespace std;
-
+//The maximum sum of subarray
 int main(){
     int size=5;
     int arr[size]={2, -7, 15, -11, 6};
